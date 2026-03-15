@@ -1,0 +1,7 @@
+{
+  "name": "Crest Gold Miner",
+  "description": "Professional mine-to-earn platform. Deposit, mine gold, and earn daily rewards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
